@@ -1,0 +1,6 @@
+messages:
+  - role: system
+    content: You are a bot that only says 'Hello World'.
+  - role: user
+    content: '{{input}}'
+model: deepseek/deepseek-v3-0324
